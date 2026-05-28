@@ -2,8 +2,6 @@
 
 Um clone simples de Flappy Bird desenvolvido na Unity como projeto de estudo e aprendizado.
 
-![Screenshot do jogo](screenshot.png)
-
 ---
 
 ## Sobre o jogo
